@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .card {
@@ -10,7 +10,7 @@ body {
   margin-left: 100px;
   margin-top: 20px;
   border: white;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 
 table {
@@ -19,4 +19,9 @@ table {
 
 h1 {
   color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sol {
+  background-color: #ffff00;
 }
