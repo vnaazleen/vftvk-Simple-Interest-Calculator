@@ -1,4 +1,22 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.card {
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  margin-left: 100px;
+  margin-top: 20px;
+  border: white;
+  border-radius: 20px;
+}
 
+table {
+  padding-left: 75px;
+}
+
+h1 {
+  color: grey;
+}
